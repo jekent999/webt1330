@@ -1,0 +1,28 @@
+.container {
+    background-color: #05AFF2;
+    text-align: center;
+}
+
+header {
+    text-align: center;
+}
+
+img {
+    width: 75%;
+}
+
+body {
+    background-color: #05AFF2;
+}
+
+.button {
+    text-align: center;
+}
+
+footer {
+    text-align: center;
+    padding: 5px 5px 5px;
+}
+
+
+
