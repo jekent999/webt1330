@@ -1,0 +1,102 @@
+#header_img {
+    background-image: url(../images/footer.jpg);
+    background-size: cover;
+    background-position: center;
+    background-color: black;
+}
+
+#header {
+    width: 50%;
+}
+
+#welcome {
+    background-image: url(../images/lightsabers2.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#jedi {
+    background-image: url(../images/main_img.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#yoda {
+    background-image: url(../images/yoda3.webp);
+    background-size: cover;
+    background-position: center;
+}
+
+#sith {
+    background-image: url(../images/sith_group.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+#vader {
+    background-image: url(../images/vader_force_choke.avif);
+    background-size: cover;
+    background-position: center;
+}
+
+#carouselExampleCaptions {
+    width: 75%;
+    margin: 0 auto;
+}
+
+#carouselExampleCaptions_sith {
+    width: 50%;
+    margin: 0 auto;
+}
+
+
+
+@media (min-width: 1024px) {
+    #panel_bg {
+        width: 50%;
+    }
+
+    #the_bg {
+        width: 50%;
+    }
+
+    #grand_master {
+        width: 50%;
+    }
+
+    #sith_bg {
+        width: 50%;
+    }
+
+    #darth_vader {
+        width: 50%;
+    }
+}
+
+
+h1 {
+    text-align: center;
+}
+
+.card {
+    display: inline-block;
+}
+
+body {
+    background-color: #7F8981;
+    font-family: 'Didact Gothic', sans-serif;
+}
+
+footer {
+    text-align: center;
+    padding: 5px;
+}
+
+.row {
+    width: 75%;
+    margin: 0 auto;
+}
+
+.icon {
+    color: black;
+}
