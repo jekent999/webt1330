@@ -3,10 +3,11 @@
     background-size: cover;
     background-position: center;
     background-color: black;
+    margin-top: 10px;
 }
 
 #header {
-    width: 50%;
+    width: 45%;
 }
 
 #welcome {
@@ -84,7 +85,7 @@ h1 {
 
 body {
     background-color: #7F8981;
-    font-family: 'Didact Gothic', sans-serif;
+    font-family: 'Nova Square', sans-serif;
 }
 
 footer {
